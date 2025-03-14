@@ -45,7 +45,6 @@
         "lib/**",
         "built/**",
         "tests/**",
-        "internal/**",
         "**/*.generated.*",
         "scripts/*.d.*",
         "**/_namespaces/**"
