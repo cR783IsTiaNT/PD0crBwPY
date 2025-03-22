@@ -18,7 +18,6 @@
     -> matcher within the filter
 - A user is bound to a classroom instance. Should a central user service exist, or should users always be taken from within a data structure in a classroom instance. -> No. Users will be bound hardly to a classroom instance.
 == Notes
-
 Useful BBB API testing tool: https://mconf.github.io/api-mate/
 
 JWT: https://github.com/raphaelDL/spring-webflux-security-jwt
