@@ -10,7 +10,6 @@ android:
     - build-tools-26.0.0
     - android-26
 
-# Enable travis container based infrastructure
 sudo: false
 
 before_script:
